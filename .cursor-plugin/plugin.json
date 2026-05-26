@@ -1,0 +1,18 @@
+{
+  "name": "spec-driven",
+  "version": "1.0.0",
+  "description": "Spec-driven development framework: enforces a four-phase flow (Spec → Plan → Create Tasks → Execute) with cross-cutting tools for clarity (grill), shared domain glossary (context), and architecture decision records (doc).",
+  "author": {
+    "name": "Diego Costa",
+    "email": "diegoviniciuscosta13@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "spec-driven",
+    "workflow",
+    "planning",
+    "atomic-tasks",
+    "adr",
+    "domain-glossary"
+  ]
+}
