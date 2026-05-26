@@ -1,5 +1,7 @@
 # spec-driven (Cursor plugin)
 
+> ⚠️ **Work in progress — not yet published to the Cursor marketplace.** APIs, command names, and file layout may change. Use at your own risk and pin to a commit if you depend on it.
+
 A disciplined four-phase workflow for software changes: **Spec → Plan → Create Tasks → Execute**. Each phase is gated by explicit approval, and three cross-cutting tools keep clarity, vocabulary, and decisions under control.
 
 ## What you get
@@ -58,7 +60,7 @@ Then restart Cursor (or run "Developer: Reload Window").
 
 ### From the marketplace
 
-Once published, install through Cursor's plugin marketplace.
+Not available yet — the plugin is still in development and has not been submitted to the Cursor marketplace.
 
 ## Typical flow
 
