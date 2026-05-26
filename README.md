@@ -83,6 +83,13 @@ Not available yet — the plugin is still in development and has not been submit
 
 Need clarity at any point? Invoke `/grill <what's unclear>`. Need to capture a domain term? `/context <term>`. Need to record a hard-to-reverse decision? `/doc <decision>`.
 
+## Acknowledgments
+
+Thanks to the following projects for the references and inspiration that shaped this plugin:
+
+- [tech-leads-club/agent-skills — `tlc-spec-driven`](https://github.com/tech-leads-club/agent-skills/blob/main/packages/skills-catalog/skills/(development)/tlc-spec-driven/SKILL.md)
+- [mattpocock/skills](https://github.com/mattpocock/skills/tree/main/skills)
+
 ## License
 
 MIT
